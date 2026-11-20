@@ -76,8 +76,7 @@ plt.axis('off')
 
 ### Output – Input Image with Text
 
-![alt text](image.png)
-
+![alt text](image-1.png)
 
 ## Program 6: Apply Opening Operation
 
@@ -97,7 +96,7 @@ plt.axis('off')
 
 ### Output – Opening Operation
 
-![alt text](image-1.png)
+![alt text](image.png)
 
 ## Program 8: Apply Closing Operation
 
